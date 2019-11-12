@@ -1,7 +1,7 @@
 # Heaps
-A heap is a complete binary tree datastructure used to build priority queues and sort data, sorting is done using heapsort. 
+A heap is a complete binary tree Data Structure used to build priority queues and sort data, sorting is done using heapsort. 
 
-## Datastructure
+## Data Structure
 A heap is a complete binary tree, that is, each level, that is not the last, the tree is filled and on the last level the nodes are pushed leftward. 
 
 ## Heapsort
